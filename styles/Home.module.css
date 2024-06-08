@@ -38,7 +38,7 @@
 .button {
     width: 100%;
     padding: 10px;
-    background-color: #CC3232;
+    background-color: hsl(0, 61%, 50%);
     color: white;
     border: none;
     border-radius: 4px;
@@ -46,7 +46,7 @@
 }
 
 .button:hover {
-    background-color: #005bb5;
+    background-color: hsl(0, 61%, 40%);
 }
 
 .error {
